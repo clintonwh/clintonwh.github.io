@@ -22,3 +22,5 @@ links = [
    { icon = "fa-solid fa-envelope", url = "mailto:slice@pizza.it" },
    { icon = "fa-solid fa-pizza-slice", url = "https://en.wikipedia.org/wiki/Pizza" },
 ]
+
+sections = ["pizza"]
